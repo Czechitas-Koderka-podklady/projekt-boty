@@ -45,7 +45,7 @@ Zadání tohoto projektu je vytvořeno ve dvou úrovních obtížnosti. Tento re
 - musíš vymyslet, do jakých prvků obsah zabalíš a jaké třídy jim přidáš
 
 ### Lehčí obtížnost
-- dostupná v [druhém repozitáři](https://github.com/Czechitas-Koderka-podklady/PROJEKT-Boty-lehci)
+- dostupná v [druhém repozitáři](https://github.com/Czechitas-Koderka-podklady/projekt-boty-lehci)
 - grafické zadání je stejné, ale v HTML je kompletně připravený obsah včetně struktury, obalových prvků a přidaných CSS tříd
 - v této obtížnosti nemusíš HTML vůbec upravovat - stačí si ho prostudovat, abys věděla jaké prvky/třídy máš stylovat a "jenom" k nim napsat CSS
 
